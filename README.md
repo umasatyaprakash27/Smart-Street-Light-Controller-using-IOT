@@ -2,6 +2,7 @@
 Developed a prototype to turn on and off streetlights automatically based on sun light intensity &amp; Person detection.
 
 Tool Used: Tinker-cad(Open source)(Online Simulator) 
+Project link: https://www.tinkercad.com/things/64tKCvwwQ7g-smart-streetlight-case-1-19bei0141/editel?sharecode=e9fYF2ofHPOfI77-uR-URS6B4ZB5j_mU1uB466AukU0
 
 Problem Definition: Our proposed system consists of smart street lights that have external light 
 sensing that automatically turns on at desired intensity based on the 
