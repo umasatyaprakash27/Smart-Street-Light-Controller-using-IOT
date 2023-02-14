@@ -1,7 +1,8 @@
 # Smart-Street-Light-Controller-using-IOT
 Developed a prototype to turn on and off streetlights automatically based on sun light intensity &amp; Person detection.
 
-Problem DefinitionOur proposed system consists of smart street lights that have external light 
+Tool Used: Tinker-cad(Open source)(Online Simulator) 
+Problem Definition: Our proposed system consists of smart street lights that have external light 
 sensing that automatically turns on at desired intensity based on the 
 amount of lighting needed. The system also allows the controller person to 
 check estimated power consumptions as per current intensity of light as 
@@ -9,7 +10,8 @@ well as predict monthly power consumption .
 Along with the light sensor (LDR) we will also be working with Ultrasonic 
 sensor (HCSR-04) or PIR sensor which are used to sense and detect the 
 objects in their range. 
-Proposed Technique and IOT DeploymentFirstly The tools that we are going to use in this project include ArduinoUNO, Cable wires, Led Bulbs, Ultrasonic sensor(HCSR-04), light sensor 
+Proposed Technique and IOT Deployment:
+Firstly The tools that we are going to use in this project include Arduino UNO, Cable wires, Led Bulbs, Ultrasonic sensor(HCSR-04), light sensor 
 (LDR), Machine Learning (Clustering Technique), Breadboard, Gas Sensor,
 Buzzer etc. 
 The main idea of our project model is if the sun light intensity is very less(i.e 
@@ -34,52 +36,18 @@ Government and Public.
 Implementation: 
  
 Architecture-1 Flow Diagram (i.e. Arduino 1) 
-
-
-
-
-
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/113044497/218835676-8d88a8f8-d57f-45c8-9fb7-31da53dea56d.png)
 
 (1) 
+![image](https://user-images.githubusercontent.com/113044497/218835745-f429f9d0-d149-47d5-ad1d-51de3bdc1e75.png)
 
  
 
 Architecture-2 Flowchart (i.e.Arduino-2) 
- 
- 
-  
- 
- 
- 
-
-
- 
-
-
-
-
+ ![image](https://user-images.githubusercontent.com/113044497/218835779-4cac8fda-bf66-4975-a58d-8a4c9858154d.png)
 
 (2)
- 
-  
-
+ ![image](https://user-images.githubusercontent.com/113044497/218835832-95698aae-2642-4835-b61f-bbd1831232f6.png)
 
 Conclusion:
 The important aim of this project is to save the current. It is mainly used to 
