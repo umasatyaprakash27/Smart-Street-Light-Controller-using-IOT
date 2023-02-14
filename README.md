@@ -2,11 +2,12 @@
 Developed a prototype to turn on and off streetlights automatically based on sun light intensity &amp; Person detection.
 
 Tool Used: Tinker-cad(Open source)(Online Simulator) 
+
 Problem Definition: Our proposed system consists of smart street lights that have external light 
 sensing that automatically turns on at desired intensity based on the 
 amount of lighting needed. The system also allows the controller person to 
 check estimated power consumptions as per current intensity of light as 
-well as predict monthly power consumption . 
+well as predict monthly power consumption. 
 Along with the light sensor (LDR) we will also be working with Ultrasonic 
 sensor (HCSR-04) or PIR sensor which are used to sense and detect the 
 objects in their range. 
@@ -26,7 +27,6 @@ The ultrasonic sensor is going to note the number of people crossing that
 area and also the location of fire blasts with the help of Gas Sensor and 
 WIFI module. All the data that is collected through Ultrasonic sensor(i.e The 
 number of people that have crossed this area where this street light is 
-P a g e 5 | 36
 present) is sent to the server. Then By using that data from this server we 
 can know that at what places the people are visiting more time. So with the 
 data collected we can apply the clustering algorithm on that data which will 
